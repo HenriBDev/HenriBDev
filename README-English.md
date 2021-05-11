@@ -2,7 +2,7 @@
 
 ## Greetings! I'm Henrique. :wave:
 
-I look foward to join the IT industry, professionalize myself and work on Desktop, Mobile and Web development, improving my study in the process, I really admire the logic behind the structure and application of systems.
+I look foward to join the IT industry, professionalize myself and work on Desktop, Mobile and Web development, also improving my study in the process. I really admire the logic behind the structure and application of systems.
 
 ---
 
