@@ -2,11 +2,11 @@
 
 ## Olá! Me chamo Henrique. :wave:
 
-Busco melhorar minhas habilidades na área de programação, adquirir experiência profissional e contribuir no mercado com minhas capacidades. Tenho interesse em TI com foco em programação por conta da lógica e algoritmos por trás de sistemas, aplicativos, sites etc. Busco minha primeira experiência de trabalho e pretendo absorver o máximo de aprendizado dela enquanto dou o meu melhor.
+Busco embarcar no mercado na área de TI, me profissionalizar e trabalhar desenvolvendo programas, aplicativos, sites, aprofundando meu estudo no processo, admiro muito a lógica por trás da estrutura e aplicação de sistemas.
 
 ---
 
-### Onde pode me encontrar
+### Onde me encontrar
 
 **GitHub**: [https://github.com/HenriBDev/](https://github.com/HenriBDev/)
 
