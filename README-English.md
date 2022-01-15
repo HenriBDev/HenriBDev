@@ -8,16 +8,14 @@ I look foward to join the IT industry, professionalize myself and work on Deskto
 
 ### Where to find me
 
-**GitHub**: [https://github.com/HenriBDev/](https://github.com/HenriBDev/)
-
-**LinkedIn**: [https://www.linkedin.com/in/henribdev/](https://www.linkedin.com/in/henribdev/)
+**LinkedIn**: https://www.linkedin.com/in/henribdev/
 
 ---
 
 | Skills | Projects |
 |:---|:---|
-|**HTML** - Intermediate    |**WAREHOUSE** - a website of exchanges and donations made with HTML, CSS, JavaScript and PHP (Currently only supported on Brazil): [https://github.com/Vichiat0/Warehouse](https://github.com/Vichiat0/Warehouse)|
-|**CSS** - Beginner    | 
+|**HTML** - Intermediate    |**WAREHOUSE** - a website of exchanges and donations made with HTML, CSS, JavaScript and PHP (Currently only supported on Brazil): https://github.com/Vichiat0/Warehouse|
+|**CSS** - Beginner    |**BUG HUNTER** - a bomberman-like game developed in HTML, CSS and JavaScript vanilla: https://github.com/HenriBDev/Bug-Hunter|
 |**JavaScript** - Intermediate    | |
 |**PHP** - Intermediate    | |
 |**jQuery** - Beginner    | |
