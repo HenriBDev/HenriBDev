@@ -8,16 +8,14 @@ Busco embarcar no mercado na área de TI, me profissionalizar e trabalhar desenv
 
 ### Onde me encontrar
 
-**GitHub**: [https://github.com/HenriBDev/](https://github.com/HenriBDev/)
-
-**LinkedIn**: [https://www.linkedin.com/in/henribdev/](https://www.linkedin.com/in/henribdev/)
+**LinkedIn**: https://www.linkedin.com/in/henribdev/
 
 ---
 
 | Habilidades | Projetos |
 |:---|:---|
-|**HTML** - Intermediário    |**WAREHOUSE** - um site de trocas e doações feito com HTML, CSS, JavaScript e PHP (Atualmente apenas suportado no Brasil): [https://github.com/Vichiat0/Warehouse](https://github.com/Vichiat0/Warehouse)|
-|**CSS** - Iniciante    | 
+|**HTML** - Intermediário    |**BUG HUNTER** - um jogo no estilo de bomberman desenvolvido em HTML, CSS e JavaScript puros: https://github.com/HenriBDev/Bug-Hunter|
+|**CSS** - Iniciante    |**WAREHOUSE** - um site de trocas e doações feito com HTML, CSS, JavaScript e PHP: https://github.com/Vichiat0/Warehouse|
 |**JavaScript** - Intermediário    | |
 |**PHP** - Intermediário    | |
 |**jQuery** - Iniciante    | |
