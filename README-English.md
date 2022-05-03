@@ -14,7 +14,7 @@ I look foward to join the IT industry, professionalize myself and work as a deve
 
 | Skills | Projects |
 |:---|:---|
-|**HTML** - Intermediate    |**DOCWRITER** - a discord bot that transforms your messages into document files, developed in Node.js: https://github.com/HenriBDev/PDFMaker|
+|**HTML** - Intermediate    |**DOCWRITER** - a discord bot that transforms your messages into document files, developed in Node.js: https://github.com/HenriBDev/DocWriter|
 |**CSS** - Intermediate    |**BUG HUNTER** - a bomberman-like game developed in HTML, CSS and JavaScript vanilla: https://github.com/HenriBDev/Bug-Hunter|
 |**JavaScript** - Intermediate    |**WAREHOUSE** - a website of exchanges and donations made with HTML, CSS, JavaScript and PHP (Currently only supported on Brazil): https://github.com/Vichiat0/Warehouse|
 |**Node.js** - Intermediate    | |
