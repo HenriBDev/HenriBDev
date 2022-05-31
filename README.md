@@ -1,27 +1,28 @@
-[**Versão em inglês // English version**](README-English.md)
+[**Portuguese version // Versão em português**](README-Portuguese.md)
 
-## Olá! Me chamo Henrique. :wave:
+## Greetings! I'm Henrique. :wave:
 
-Busco embarcar no mercado na área de desenvolvimento, me profissionalizar como programador ou analista de sistemas. Gosto de trabalhar desenvolvendo programas, aplicativos, sites, me interesso muito pela lógica por trás da estrutura e implementação de sistemas e aplicações.
+I look foward to join the IT industry, professionalize myself and work as a developer or systems analyst, also improving my study in the process. I really admire the logic behind the structure and implementation of systems and applications.
 
 ---
 
-### Onde me encontrar
+### Where to find me
 
 **LinkedIn**: https://www.linkedin.com/in/henribdev/
 
 ---
 
-| Habilidades | Projetos |
+| Skills | Projects |
 |:---|:---|
-|**HTML** - Intermediário    |**DOCWRITER** - um bot para discord que transforma suas mensagens em arquivos de documento, desenvolvido em Node.js: https://github.com/HenriBDev/DocWriter|
-|**CSS** - Intermediário    |**BUG HUNTER** - um jogo no estilo de bomberman desenvolvido em HTML, CSS e JavaScript puros: https://github.com/HenriBDev/Bug-Hunter|
-|**JavaScript** - Intermediário    |**WAREHOUSE** - um site de trocas e doações feito com HTML, CSS, JavaScript e PHP: https://github.com/Vichiat0/Warehouse|
-|**Node.js** - Intermediário    | |
-|**PHP** - Intermediário    | |
-|**jQuery** - Iniciante    | |
-|**Bootstrap** - Iniciante    | |
-|**React** - Iniciante    | |
+|**HTML** - Intermediate    |**DOCWRITER** - a Discord bot that transforms your messages into document files, developed in Node.js: https://github.com/HenriBDev/DocWriter|
+|**CSS** - Intermediate    |**BUG HUNTER** - a bomberman-like game developed in HTML, CSS and JavaScript vanilla: https://github.com/HenriBDev/Bug-Hunter|
+|**JavaScript** - Intermediate    |**WAREHOUSE** - a website of exchanges and donations made with HTML, CSS, JavaScript and PHP (Currently only supported on Brazil): https://github.com/Vichiat0/Warehouse|
+|**Node.js** - Intermediate    | |
+|**PHP** - Intermediate    | |
+|**Java** - Intermediate | |
+|**jQuery** - Beginner    | |
+|**Bootstrap** - Beginner    | |
+|**React** - Beginner    | |
 
 
 
