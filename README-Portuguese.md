@@ -2,7 +2,7 @@
 
 ## Olá! Me chamo Henrique. :wave:
 
-Busco embarcar no mercado na área de desenvolvimento, me profissionalizar como programador ou analista de sistemas. Gosto de trabalhar desenvolvendo programas, aplicativos, sites, me interesso muito pela lógica por trás da estrutura e implementação de sistemas e aplicações.
+Admiro muito a lógica por trás da estrutura e implementação de sistemas e aplicações, o interior do computador e como tudo funciona junto. Estou ancioso pelo dia que terei conhecimento o suficiente para controlar totalmente o computador e programá-lo como eu quiser
 
 ---
 
