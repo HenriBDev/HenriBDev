@@ -2,7 +2,7 @@
 
 ## Greetings! I'm Henrique. :wave:
 
-I really admire the logic behind the structure and implementation of systems and applications, the insides of the computer and how everything works together. Looking forward for the day that I'll have enough knowledge to fully control the computer and program it as my own.
+I really admire the logic behind the structure and implementation of systems and applications, the insides of the computer and how everything works together. Looking forward for the day that I'll have enough knowledge to fully control the computer and program it as I want.
 
 ---
 
