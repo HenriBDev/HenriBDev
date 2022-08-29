@@ -2,7 +2,7 @@
 
 ## Greetings! I'm Henrique. :wave:
 
-I look foward to join the IT industry, professionalize myself and work as a developer or systems analyst, also improving my study in the process. I really admire the logic behind the structure and implementation of systems and applications.
+I really admire the logic behind the structure and implementation of systems and applications, the insides of the computer and how everything works together. Looking forward for the day that I'll have enough knowledge to fully control the computer and program it as my own.
 
 ---
 
