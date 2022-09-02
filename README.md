@@ -24,6 +24,9 @@ I really admire the logic behind the structure and implementation of systems and
 |**Bootstrap** - Beginner    | |
 |**React** - Beginner    | |
 
+<p align="center">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=HenriBDev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</p>
 
 
 
