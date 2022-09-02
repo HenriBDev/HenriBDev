@@ -23,3 +23,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 |**jQuery** - Iniciante    | |
 |**Bootstrap** - Iniciante    | |
 |**React** - Iniciante    | |
+
+<p align="center">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=HenriBDev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</p>
