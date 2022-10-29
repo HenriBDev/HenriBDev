@@ -89,7 +89,7 @@ I really admire the logic behind the structure and implementation of systems and
                 <b>React</b> - Beginner 
               </td>
               <td>
-                <b>Python</b> - Beginner 
+                <b>Python</b> - Intermediate 
               </td>
             </tr>
           </tbody>
