@@ -89,7 +89,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
                 <b>React</b> - Iniciante
               </td>
               <td>
-                <b>Python</b> - Iniciante 
+                <b>Python</b> - Intermediário 
               </td>
             </tr>
           </tbody>
