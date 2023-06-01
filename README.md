@@ -54,6 +54,14 @@ I really admire the logic behind the structure and implementation of systems and
           <tbody>
             <tr>
               <td>
+                <b>Python</b> - Intermediate
+              </td>
+              <td>
+                <b>Django</b> - Intermediate
+              </td>
+            </tr>
+            <tr>
+              <td>
                 <b>HTML</b> - Intermediate
               </td>
               <td>
@@ -89,7 +97,7 @@ I really admire the logic behind the structure and implementation of systems and
                 <b>React</b> - Beginner 
               </td>
               <td>
-                <b>Python</b> - Intermediate 
+                -----
               </td>
             </tr>
           </tbody>
