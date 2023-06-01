@@ -54,6 +54,14 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
           <tbody>
             <tr>
               <td>
+                <b>Python</b> - Intermediário
+              </td>
+              <td>
+                 <b>Django</b> - Intermediário
+              </td>
+            </tr>
+            <tr>
+              <td>
                 <b>HTML</b> - Intermediário
               </td>
               <td>
@@ -89,7 +97,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
                 <b>React</b> - Iniciante
               </td>
               <td>
-                <b>Python</b> - Intermediário 
+                -----
               </td>
             </tr>
           </tbody>
