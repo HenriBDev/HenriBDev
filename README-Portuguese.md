@@ -8,7 +8,8 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 
 ### Onde me encontrar
 
-**LinkedIn**: https://www.linkedin.com/in/henribdev/
+<a href="https://www.linkedin.com/in/henribdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:henribdev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
 
