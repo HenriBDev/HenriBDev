@@ -21,7 +21,12 @@ I really admire the logic behind the structure and implementation of systems and
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" align="center">
+      <td>
+        <a href="https://github.com/HenriBDev/breakout-java">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=breakout-java&theme=algolia"/>
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/HenriBDev/DocWriter">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=docwriter&theme=algolia"/>
         </a>
