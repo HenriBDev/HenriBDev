@@ -50,7 +50,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 <table align="center">
   <thead>
     <th colspan="2">
-      Habilidades
+      Skills
     </th>
   </thead>
   <tbody>
@@ -60,57 +60,49 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
           <tbody>
             <tr>
               <td>
-                <b>Python</b> - Intermediário
+                <b>Spring Boot</b>
               </td>
               <td>
-                 <b>Django</b> - Intermediário
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>HTML</b> - Intermediário
-              </td>
-              <td>
-                <b>CSS</b> - Intermediário
+                <b>Django</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>JavaScript</b> - Intermediário
+                <b>ASP.NET</b>
               </td>
               <td>
-                <b>Node.js</b> - Intermediário
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>PHP</b> - Intermediário
-              </td>
-              <td>
-                <b>Java</b> - Intermediário
+                <b>Node.js</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>jQuery</b> - Iniciante
+                <b>PHP</b>
               </td>
               <td>
-                <b>Bootstrap</b> - Iniciante
+                <b>React</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>React</b> - Iniciante
+                <b>jQuery</b>
               </td>
               <td>
-                -----
+                <b>Bootstrap</b>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>Vue.js</b>
+              </td>
+              <td>
+                <b>----</b>
               </td>
             </tr>
           </tbody>
         </table>
       </td>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile&locale=pt-br"/>
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile"/>
       </td>
     </tr>
   </tbody>
