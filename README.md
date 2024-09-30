@@ -60,50 +60,42 @@ I really admire the logic behind the structure and implementation of systems and
           <tbody>
             <tr>
               <td>
-                <b>Python</b> - Intermediate
+                <b>Spring Boot</b>
               </td>
               <td>
-                <b>Django</b> - Intermediate
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>HTML</b> - Intermediate
-              </td>
-              <td>
-                <b>CSS</b> - Intermediate
+                <b>Django</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>JavaScript</b> - Intermediate
+                <b>ASP.NET</b>
               </td>
               <td>
-                <b>Node.js</b> - Intermediate
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>PHP</b> - Intermediate
-              </td>
-              <td>
-                <b>Java</b> - Intermediate
+                <b>Node.js</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>jQuery</b> - Beginner
+                <b>PHP</b>
               </td>
               <td>
-                <b>Bootstrap</b> - Beginner
+                <b>React</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>React</b> - Beginner 
+                <b>jQuery</b>
               </td>
               <td>
-                -----
+                <b>Bootstrap</b>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>Vue.js</b>
+              </td>
+              <td>
+                <b>----</b>
               </td>
             </tr>
           </tbody>
