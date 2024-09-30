@@ -13,6 +13,13 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 
 ---
 
+### Atualmente trabalhando em
+<a href="https://github.com/HenriBDev/jankenpon-ai-spring-boot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=jankenpon-ai-spring-boot&theme=algolia"/>
+</a>
+
+---
+
 <table align="center">
   <thead>
     <th colspan="2">
