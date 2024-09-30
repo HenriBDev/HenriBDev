@@ -13,10 +13,17 @@ I really admire the logic behind the structure and implementation of systems and
 
 ---
 
+### Currently working on
+<a href="https://github.com/HenriBDev/jankenpon-ai-spring-boot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=jankenpon-ai-spring-boot&theme=algolia"/>
+</a>
+
+---
+
 <table align="center">
   <thead>
     <th colspan="2">
-      Projects
+      Finished Projects
     </th>
   </thead>
   <tbody>
