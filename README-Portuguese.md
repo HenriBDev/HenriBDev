@@ -23,7 +23,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 <table align="center">
   <thead>
     <th colspan="2">
-      Projetos
+      Projetos Finalizados
     </th>
   </thead>
   <tbody>
