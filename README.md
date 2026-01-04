@@ -14,8 +14,8 @@ I really admire the logic behind the structure and implementation of systems and
 ---
 
 ### Currently working on
-<a href="https://github.com/HenriBDev/jankenpon-ai-spring-boot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=jankenpon-ai-spring-boot&theme=algolia"/>
+<a href="https://github.com/HenriBDev/game-drawer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=game-drawer&theme=algolia"/>
 </a>
 
 ---
