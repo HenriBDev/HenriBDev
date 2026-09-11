@@ -15,7 +15,7 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
 
 ### Atualmente trabalhando em
 <a href="https://github.com/HenriBDev/jankenpon-ai-spring-boot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=jankenpon-ai-spring-boot&theme=algolia"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=jankenpon-ai-spring-boot&theme=algolia"/>
 </a>
 
 ---
@@ -30,24 +30,24 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
     <tr>
       <td>
         <a href="https://github.com/HenriBDev/breakout-java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=breakout-java&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=breakout-java&theme=algolia"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/HenriBDev/DocWriter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=docwriter&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=docwriter&theme=algolia"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/HenriBDev/Bug-Hunter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=bug-hunter&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=bug-hunter&theme=algolia"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Vichiat0/Warehouse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=warehouse&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=warehouse&theme=algolia"/>
         </a>
       </td>
     </tr>
@@ -109,12 +109,12 @@ Admiro muito a lógica por trás da estrutura e implementação de sistemas e ap
         </table>
       </td>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile"/>
+        <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile"/>
       </td>
     </tr>
   </tbody>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=HenriBDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-stats-extended.vercel.app/api/?username=HenriBDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
 </p>
