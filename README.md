@@ -15,7 +15,7 @@ I really admire the logic behind the structure and implementation of systems and
 
 ### Currently working on
 <a href="https://github.com/HenriBDev/game-drawer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=game-drawer&theme=algolia"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=game-drawer&theme=algolia"/>
 </a>
 
 ---
@@ -30,24 +30,24 @@ I really admire the logic behind the structure and implementation of systems and
     <tr>
       <td>
         <a href="https://github.com/HenriBDev/breakout-java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=breakout-java&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=breakout-java&theme=algolia"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/HenriBDev/DocWriter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=docwriter&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=docwriter&theme=algolia"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/HenriBDev/Bug-Hunter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=bug-hunter&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=bug-hunter&theme=algolia"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Vichiat0/Warehouse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=henribdev&repo=warehouse&theme=algolia"/>
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=henribdev&repo=warehouse&theme=algolia"/>
         </a>
       </td>
     </tr>
@@ -109,14 +109,14 @@ I really admire the logic behind the structure and implementation of systems and
         </table>
       </td>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile"/>
+        <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=henribdev&layout=compact&theme=algolia&hide=procfile"/>
       </td>
     </tr>
   </tbody>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=HenriBDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/?username=HenriBDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 
